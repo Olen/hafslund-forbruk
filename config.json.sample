@@ -1,0 +1,7 @@
+{
+	"username" : "email@address",
+	"password" : "p4ssW0rd",
+	"cachePath": "/path/to/.qws/cache/Ofi Labs/PhantomJS/data7/",
+	"baseUrl"  : "https://www.hafslundnett.no/"
+}
+
